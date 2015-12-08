@@ -7,3 +7,6 @@ third version..
 
 Git has a mutable index called stage.
 2015年12月8日10:20:26
+
+Git tracks changes.
+2015年12月8日10:24:44
