@@ -4,3 +4,6 @@ Git is free software.
 
 third version..
 2015年12月8日10:11:33
+
+Git has a mutable index called stage.
+2015年12月8日10:20:26
