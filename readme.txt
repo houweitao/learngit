@@ -11,6 +11,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 2015年12月8日10:24:44
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 2015年12月8日10:45:51
-2015年12月8日10:50:24
+2015年12月8日10:52:41
